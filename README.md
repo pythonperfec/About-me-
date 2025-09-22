@@ -1,5 +1,5 @@
 ## Hi there 👋 , I'm Ishan
-<h1 align="center"> 
+<h1 align="center"> this is my profile
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ishan+👋;Computer+Science+Student+💻;Passionate+about+AI+%26+ML+🤖;Always+Exploring+New+Technologies+🚀" alt="Typing Intro" />
 </h1>
 
