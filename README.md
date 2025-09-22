@@ -1,8 +1,10 @@
 ## Hi there 👋 , I'm Ishan
 <h1 align="center">
-  <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ishan+👋;Computer+Science+Student+💻;Passionate+about+AI+%26+ML+🤖;Always+Exploring+New+Technologies+🚀" alt="Typing Intro" />
+  <h1 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&color=00C2FF&center=true&vCenter=true&lines=Hello+there+%F0%9F%91%8BWelcome+to+my+profile;I+am+a+Computer+Science+Student+%F0%9F%92%BB;Passionate+about+AI+%26+ML+%F0%9F%A4%96)](https://git.io/typing-svg)
 </h1>
+
 
 </h1>
 
@@ -52,30 +54,28 @@
 
 ## 🎯 Career Goals
 - 🚀 Master AI/ML  
-- 🌍 Contribute to Open Source  
-- 🏆 Land high-paying placements in the tech industry  
+- 🌍 Contribute to Open Source   
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pythonperfec&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonperfec&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pythonperfec&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
